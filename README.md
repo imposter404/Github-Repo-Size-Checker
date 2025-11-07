@@ -6,7 +6,7 @@ Check your Github Repository size before download
 ## Web: React 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50px" alt="react" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="50px" alt="vite" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="50px" alt="vitejs" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50px" alt="tailwindcss" /> 
 </div>
 
@@ -55,5 +55,6 @@ Javascript + SWC
 
 ---
 ## hosted at 
+
 
 [Github-Repo-Size-Checker/](https://imposter404.github.io/Github-Repo-Size-Checker/)
