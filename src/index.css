@@ -1,0 +1,60 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+
+
+
+
+
+body{
+  /* background: rgb(58, 58, 58); */
+  background: #0f0030;
+  color: white;
+  height: 100dvh;
+}
+#root{
+  height: 100%;
+  width: 100%;
+}
+*{
+  /* outline: 1px solid red; */
+}
+.middle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.radius{
+  border-radius: 80px 80px 0 0px;
+  background: #002857;
+  box-shadow: 0px -20px 50px -34px #006eff4b;
+  padding: 80px;
+}
+input{
+  outline: none;
+}
+button{
+  /* &:hover{
+    border: #000000;
+    background: red;
+  } */
+}
+.circle{
+  height: 100px;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+}
+.pill{
+  width: fit-content;
+  padding-inline:10px ;
+  border-radius: 100px;
+}
+
+
+
+@media screen and (max-width: 450px) {
+  .radius{
+    border-radius: 40px 40px 0 0px;
+    padding: 40px 20px;
+  }
+}
